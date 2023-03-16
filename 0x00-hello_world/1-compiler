@@ -1,2 +1,2 @@
 #!/bin/bash
-o_world#
+gcc -c $CFILE
